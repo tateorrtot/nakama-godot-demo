@@ -1,4 +1,4 @@
-# Nakama Godot Demo
+# Test Nakama Godot Demo
 
 ![Nakama Godot demo banner image](./img/godot-nakama-banner.png)
 
